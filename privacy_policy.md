@@ -1,6 +1,6 @@
 # Privacy Policy for Funlearn
 
-Last updated: (add date)
+Last updated: 29/10/2023
 
 Funlearn ("us", "we", or "our") operates the Funlearn mobile application (the "Service").
 
@@ -43,4 +43,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at ofbtlabs@gmail.com
